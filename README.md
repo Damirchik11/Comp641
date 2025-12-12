@@ -16,11 +16,11 @@ This is a group project for CSUN Comp641 our goal is to build a classification m
 2. **LAUSD Schools Geographic Information**:
 
    - [Explore Dataset](https://geohub.lacity.org/datasets/schools-lausd/explore?location=34.011807%2C-118.403498%2C9.30&showTable=true)
-   - [About Dataset](https://geohub.lacity.org/datasets/schools-lausd/about)
+   - [Download Link](https://geohub.lacity.org/datasets/schools-lausd/about)
    - This dataset includes geographic and demographic information about schools in the Los Angeles Unified School District.
 
 3. **LAUSD School Budget and Spending (Budget To Actual 2023-24)**:
-   - [Dataset Link](https://budgettransparency.lausd.net/school-budget)
+   - [Explore Dataset](https://budgettransparency.lausd.net/school-budget)
    - This dataset provides detailed information on school budgets and spending for the 2023-24 academic year.
 
 ---
